@@ -1,0 +1,8 @@
+{
+  "name": "당근부동산 고객 상담 및 매물 관리 시스템",
+  "description": "공인중개사 및 부동산 대표를 위한 고객 상담 기록, 매물 관리 및 맞춤 매물 조건 대조·비교 전문 업무 보조 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
